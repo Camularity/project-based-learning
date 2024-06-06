@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int test() {
+int main() {
 
-    printf("hello World2\n");
+    printf("%d", 100);
 }
